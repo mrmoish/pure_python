@@ -4,10 +4,3 @@
 # временные файлы vim
 *.swp
 
-# виртуальное окружение python
-/venv/
-/env/
-
-# директории после build
-/dist/
-/UNKNOWN.egg-info
