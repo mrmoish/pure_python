@@ -1,0 +1,12 @@
+# временные файлы macos
+.DS_Store
+
+# временные файлы vim
+*.swp
+
+# виртуальное окружение python
+/venv/
+
+# директории после build
+/dist/
+/UNKNOWN.egg-info
