@@ -11,7 +11,7 @@ pure_python$ python3 test_import.py
 PERL
 ----
 ```perl
-pure_python$ python3
+# pure_python$ python3
 # ...
 >>> import import_module
 # ...
