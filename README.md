@@ -32,5 +32,5 @@ text[^1]
 deactivate
 ```
 
-[^1] ... pure_python$ 
+[^1]: ...pure_python$ 
 
