@@ -1,16 +1,16 @@
 README
 ======
-> pwd = .../pure_python
 
-bash
+bash[1^]
 ----
-```
-$ python3 test_import.py
+```console
+$ python3 test_import.py[1^]
+# ...
 ```
 
-PERL
-____
-```
+PERL[1^]
+----
+```console
 $ python3
 # ...
 >>> import import_module
@@ -27,3 +27,7 @@ $ python3
 # ...
 # [control] + d
 ```
+
+
+[^1]: pwd = .../pure_python
+
