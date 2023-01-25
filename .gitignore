@@ -6,8 +6,8 @@
 
 # виртуальное окружение python
 /venv/
-/env/
 
 # директории после build
 /dist/
-/UNKNOWN.egg-info
+mypackage.egg-info/
+
