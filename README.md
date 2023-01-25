@@ -1,8 +1,6 @@
-Pure Python
-===========
-
 Simple Build
-----------
+============
+
 ### 🏗️ Creating the virtual environment with latest pip version
 ```bash
 pure_python$ python3 -m venv venv  --upgrade-deps
@@ -20,14 +18,12 @@ pure_python$ source venv/bin/activate
 pure_python$ python3 -m pip install build
 ```
 
-## 🚀 BUILDING and unbuilding
-text[^1]
+### 🚀 BUILDING and unbuilding
 ```bash
 ./test_build_and_unbuild.sh 
 ```
 
-### Deactivate
-[^1]
+### Deactivate[^1]
 ```bash
 deactivate
 ```
