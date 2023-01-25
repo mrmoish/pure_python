@@ -21,13 +21,15 @@ pure_python$ python3 -m pip install build
 ```
 
 ## 🚀 BUILDING and unbuilding
+text[^1]
 ```bash
-[^1] ./test_build_and_unbuild.sh 
+./test_build_and_unbuild.sh 
 ```
 
 ### Deactivate
+[^1]
 ```bash
-[^1] deactivate
+deactivate
 ```
 
 [^1] ... pure_python$ 
