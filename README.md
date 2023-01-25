@@ -3,14 +3,14 @@ README
 
 bash
 ----
-```console
+```bash
 pure_python$ python3 test_import.py
 # ...
 ```
 
 PERL
 ----
-```bash
+```perl
 pure_python$ python3
 # ...
 >>> import import_module
