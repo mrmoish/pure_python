@@ -1,10 +1,12 @@
-README
-======
+Pure Python
+===========
 
-bash
+bash[^1]
 ----
 ```bash
-pure_python$ python3 test_import.py
+python3 test_import.py
+# ...
+python3 -m module
 # ...
 ```
 
@@ -13,18 +15,22 @@ PERL
 ```perl
 # pure_python$ python3
 # ...
->>> import import_module
+>>> import module
 # ...
->>> import_module.func_in_module()
+>>> module.func_in_module()
 # ...
->>> from import_module import func_in_module
+>>> from module import func_in_module
 >>> func_in_module()
 # ...
 >>> import test_import
-# ❌❌❌ error ❌❌❌
+# ❌ error
 # ...
 >>> test_import.simple_func()
 # ...
+>>> import module.__main__
+# ❌ error
 # [control] + d
 ```
+
+[^1]: ...pure_python$
 
